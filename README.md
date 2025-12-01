@@ -103,7 +103,6 @@ Input: [5.1, 3.5, 1.4, 0.2]
 Prediction: Iris-setosa
 ```
 
-*(Replace accuracy/matrix with your actual result if needed.)*
 
 ---
 
